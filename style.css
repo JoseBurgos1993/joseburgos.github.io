@@ -1,0 +1,12 @@
+
+h1{
+    color: white;
+    background-color: #4d38ac;
+    text-align: center;
+}
+#meme1{
+    float: left;
+}
+#TextFloatRight{
+    padding-left: 30px;
+}
